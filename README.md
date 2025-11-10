@@ -2,7 +2,8 @@
 
 ![Docker](https://github.com/sarveshpro/n8n-heroku/workflows/Docker/badge.svg) ![Heroku](https://github.com/sarveshpro/n8n-heroku/workflows/Heroku/badge.svg)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYSL4L%2Fn8n-heroku%2Ftree%2Fmain)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/YSL4L/n8n-heroku/tree/master)
+
 
 #### [ Open Source Contributors feel free to maintain this repository ]
 
